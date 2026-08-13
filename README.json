@@ -1,0 +1,239 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CNN QA Task (Teaching Machines to Read & Comprehend)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-04-26T15:05:19Z",
+            "owner": "google-deepmind",
+            "repo": "rc-data",
+            "stars": 1296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QA dataset featured in Teaching Machines to Read and Comprehend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-04-26T15:05:19Z",
+            "owner": "google-deepmind",
+            "repo": "rc-data",
+            "stars": 1296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NewsQA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-11-22T18:15:13Z",
+            "owner": "Maluuba",
+            "repo": "newsqa",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Query Reformulator Dataset Jeopardy etc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-15T09:09:54Z",
+            "owner": "nyu-dl",
+            "repo": "dl4ir-query-reformulator",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat corpus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-03-10T05:02:49Z",
+            "owner": "marsan-ma",
+            "repo": "chat_corpus",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebNav",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-15T03:23:27Z",
+            "owner": "nyu-dl",
+            "repo": "dl4ir-webnav",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ParlAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-30T21:27:52Z",
+            "owner": "facebookresearch",
+            "repo": "ParlAI",
+            "stars": 10624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemNN Impl Matlab",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2020-07-28T09:20:33Z",
+            "owner": "facebookarchive",
+            "repo": "MemNN",
+            "stars": 1755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BiAttnFlow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-31T01:34:05Z",
+            "owner": "allenai",
+            "repo": "bi-att-flow",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quepy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-29T19:38:30Z",
+            "owner": "machinalis",
+            "repo": "quepy",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLQuery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-10-13T16:04:47Z",
+            "owner": "ayoungprogrammer",
+            "repo": "nlquery",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flask-chatterbot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-07-06T17:56:29Z",
+            "owner": "chamkank",
+            "repo": "flask-chatterbot",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Key Value MemNN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-07T04:57:10Z",
+            "owner": "siyuanzhao",
+            "repo": "key-value-memory-networks",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextKBQA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-25T18:39:54Z",
+            "owner": "rajarshd",
+            "repo": "TextKBQA",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Rank short text pairs with CNN SIGIR 2015",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-12-01T20:35:18Z",
+            "owner": "shashankg7",
+            "repo": "Keras-CNN-QA",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Code & Relevant Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:47:28.291Z",
+    "original_repository": "dapurv5/awesome-question-answering",
+    "original_repository_sha": "f3631282993975f31f55717610d16779eeb479d9",
+    "enhanced_repository": "enhansome/enhansome-question-answering",
+    "enhanced_repository_description": null,
+    "title": "Awesome question answering with stars"
+  }
+}
