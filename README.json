@@ -151,7 +151,7 @@
             "last_commit": "2020-12-29T19:38:30Z",
             "owner": "machinalis",
             "repo": "quepy",
-            "stars": 1266
+            "stars": 1265
           }
         },
         {
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:04:51.411Z",
+    "last_updated": "2026-08-18T07:57:46.966Z",
     "original_repository": "dapurv5/awesome-question-answering",
     "original_repository_sha": "f3631282993975f31f55717610d16779eeb479d9",
     "enhanced_repository": "enhansome/enhansome-question-answering",
