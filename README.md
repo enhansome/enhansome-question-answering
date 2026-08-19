@@ -118,7 +118,7 @@ A curated list of awesome question answering related resources, including papers
 * [ParlAI](https://github.com/facebookresearch/ParlAI) ⚠️ Archived
 * [MemNN Impl Matlab](https://github.com/facebook/MemNN) ⚠️ Archived
 * [BiAttnFlow](https://github.com/allenai/bi-att-flow) ⭐ 1,546 | 🐛 74 | 🌐 Python | 📅 2023-05-31
-* [Quepy](https://github.com/machinalis/quepy) ⭐ 1,265 | 🐛 28 | 🌐 Python | 📅 2020-12-29
+* [Quepy](https://github.com/machinalis/quepy) ⭐ 1,264 | 🐛 27 | 🌐 Python | 📅 2020-12-29
 * [NLQuery](https://github.com/ayoungprogrammer/nlquery) ⭐ 434 | 🐛 5 | 🌐 Python | 📅 2016-10-13
 * [flask-chatterbot](https://github.com/chamkank/flask-chatterbot) ⭐ 373 | 🐛 18 | 🌐 HTML | 📅 2021-07-06
 * [Key Value MemNN](https://github.com/siyuanzhao/key-value-memory-networks) ⭐ 245 | 🐛 5 | 🌐 Python | 📅 2018-09-07
@@ -127,4 +127,4 @@ A curated list of awesome question answering related resources, including papers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
