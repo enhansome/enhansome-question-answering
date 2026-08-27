@@ -239,9 +239,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:04:07.108Z",
-    "original_repository": "dapurv5/awesome-question-answering",
-    "original_repository_id": 68793962,
+    "last_updated": "2026-08-27T11:58:40.579Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 68793962,
+      "language": null,
+      "last_commit": "2023-03-17T19:52:11Z",
+      "owner": "dapurv5",
+      "repo": "awesome-question-answering",
+      "stars": 686
+    },
     "original_repository_sha": "f3631282993975f31f55717610d16779eeb479d9",
     "enhanced_repository": "enhansome/enhansome-question-answering",
     "enhanced_repository_description": null,
