@@ -16,7 +16,8 @@
             "owner": "google-deepmind",
             "repo": "rc-data",
             "stars": 1296
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "google-deepmind",
             "repo": "rc-data",
             "stars": 1296
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Maluuba",
             "repo": "newsqa",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "nyu-dl",
             "repo": "dl4ir-query-reformulator",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "marsan-ma",
             "repo": "chat_corpus",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "nyu-dl",
             "repo": "dl4ir-webnav",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         }
       ],
       "title": "Datasets"
@@ -112,7 +118,8 @@
             "owner": "facebookresearch",
             "repo": "ParlAI",
             "stars": 10621
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "facebookarchive",
             "repo": "MemNN",
             "stars": 1755
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "allenai",
             "repo": "bi-att-flow",
             "stars": 1546
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "machinalis",
             "repo": "quepy",
             "stars": 1264
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "ayoungprogrammer",
             "repo": "nlquery",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "chamkank",
             "repo": "flask-chatterbot",
             "stars": 373
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "siyuanzhao",
             "repo": "key-value-memory-networks",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "rajarshd",
             "repo": "TextKBQA",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         },
         {
           "node_type": "item",
@@ -232,14 +246,15 @@
             "owner": "shashankg7",
             "repo": "Keras-CNN-QA",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T19:28:57.324Z"
         }
       ],
       "title": "Code & Relevant Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:19:41.675Z",
+    "last_updated": "2026-08-28T19:28:57.324Z",
     "original_repository_info": {
       "archived": false,
       "id": 68793962,
