@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Question answering dataset featured in \"Teaching Machines to Read and Comprehend",
+            "homepage": null,
             "id": 43331133,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-26T15:05:19Z",
+            "open_issues": 3,
             "owner": "google-deepmind",
             "repo": "rc-data",
-            "stars": 1296
+            "stars": 1296,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Question answering dataset featured in \"Teaching Machines to Read and Comprehend",
+            "homepage": null,
             "id": 43331133,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-26T15:05:19Z",
+            "open_issues": 3,
             "owner": "google-deepmind",
             "repo": "rc-data",
-            "stars": 1296
+            "stars": 1296,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tools for using Maluuba's NewsQA Dataset (public version)",
+            "homepage": "https://www.microsoft.com/en-us/research/project/newsqa-dataset/",
             "id": 75119842,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-22T18:15:13Z",
+            "open_issues": 7,
             "owner": "Maluuba",
             "repo": "newsqa",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 88316434,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-05-15T09:09:54Z",
+            "open_issues": 5,
             "owner": "nyu-dl",
             "repo": "dl4ir-query-reformulator",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "chat corpus collection from various open sources",
+            "homepage": null,
             "id": 128580967,
             "language": null,
+            "license": null,
             "last_commit": "2017-03-10T05:02:49Z",
+            "open_issues": 0,
             "owner": "marsan-ma",
             "repo": "chat_corpus",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -90,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebNav: A New Large-Scale Task for Natural Language based Sequential Decision Making",
+            "homepage": null,
             "id": 51114355,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-04-15T03:23:27Z",
+            "open_issues": 1,
             "owner": "nyu-dl",
             "repo": "dl4ir-webnav",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         }
@@ -112,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+            "homepage": "https://parl.ai",
             "id": 89266735,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-30T21:27:52Z",
+            "open_issues": 53,
             "owner": "facebookresearch",
             "repo": "ParlAI",
-            "stars": 10621
+            "stars": 10621,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -128,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Memory Networks implementations",
+            "homepage": null,
             "id": 42554070,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-28T09:20:33Z",
+            "open_issues": 14,
             "owner": "facebookarchive",
             "repo": "MemNN",
-            "stars": 1755
+            "stars": 1755,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -144,12 +184,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bi-directional Attention Flow (BiDAF) network is a multi-stage hierarchical process that represents context at different levels of granularity and uses a bi-directional attention flow mechanism to achieve a query-aware context representation without early summarization.",
+            "homepage": "http://allenai.github.io/bi-att-flow",
             "id": 61758076,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-31T01:34:05Z",
+            "open_issues": 74,
             "owner": "allenai",
             "repo": "bi-att-flow",
-            "stars": 1546
+            "stars": 1546,
+            "topics": [
+              "bidaf",
+              "nlp",
+              "question-answering",
+              "squad",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -160,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python framework to transform natural language questions to queries in a database query language.",
+            "homepage": null,
             "id": 6984771,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-12-29T19:38:30Z",
+            "open_issues": 27,
             "owner": "machinalis",
             "repo": "quepy",
-            "stars": 1264
+            "stars": 1264,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -176,12 +232,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Natural Language Engine on WikiData",
+            "homepage": null,
             "id": 65896024,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2016-10-13T16:04:47Z",
+            "open_issues": 5,
             "owner": "ayoungprogrammer",
             "repo": "nlquery",
-            "stars": 434
+            "stars": 434,
+            "topics": [
+              "dbpedia",
+              "nlp",
+              "wikidata"
+            ]
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -192,12 +257,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple boilerplate for ChatterBot using Flask",
+            "homepage": null,
             "id": 66413193,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-07-06T17:56:29Z",
+            "open_issues": 18,
             "owner": "chamkank",
             "repo": "flask-chatterbot",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "chatterbot",
+              "flask"
+            ]
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -208,12 +281,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of key value memory networks in tensorflow",
+            "homepage": null,
             "id": 62414191,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-09-07T04:57:10Z",
+            "open_issues": 5,
             "owner": "siyuanzhao",
             "repo": "key-value-memory-networks",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "babi-tasks",
+              "deep-learning",
+              "memory-network"
+            ]
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -224,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 89125889,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-11-25T18:39:54Z",
+            "open_issues": 0,
             "owner": "rajarshd",
             "repo": "TextKBQA",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         },
@@ -240,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras (re)implementation of paper  \"Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks. SIGIR, 2015\"",
+            "homepage": null,
             "id": 75328037,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-12-01T20:35:18Z",
+            "open_issues": 1,
             "owner": "shashankg7",
             "repo": "Keras-CNN-QA",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
         }
@@ -254,15 +346,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:28:57.324Z",
+    "last_updated": "2026-08-29T04:39:41.711Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Resources, datasets, papers on Question Answering",
+      "homepage": null,
       "id": 68793962,
       "language": null,
+      "license": null,
       "last_commit": "2023-03-17T19:52:11Z",
+      "open_issues": 0,
       "owner": "dapurv5",
       "repo": "awesome-question-answering",
-      "stars": 686
+      "stars": 686,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deep-learning",
+        "machine-learning",
+        "papers",
+        "question-answering"
+      ]
     },
     "original_repository_sha": "f3631282993975f31f55717610d16779eeb479d9",
     "enhanced_repository": "enhansome/enhansome-question-answering",
