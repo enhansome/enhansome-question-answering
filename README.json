@@ -290,7 +290,7 @@
             "open_issues": 5,
             "owner": "siyuanzhao",
             "repo": "key-value-memory-networks",
-            "stars": 245,
+            "stars": 243,
             "topics": [
               "babi-tasks",
               "deep-learning",
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "shashankg7",
             "repo": "Keras-CNN-QA",
-            "stars": 67,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:41:18.353Z",
+    "last_updated": "2026-09-07T13:33:41.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources, datasets, papers on Question Answering",
@@ -358,7 +358,7 @@
       "open_issues": 0,
       "owner": "dapurv5",
       "repo": "awesome-question-answering",
-      "stars": 686,
+      "stars": 684,
       "topics": [
         "awesome",
         "awesome-list",
