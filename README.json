@@ -190,10 +190,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2023-05-31T01:34:05Z",
-            "open_issues": 74,
+            "open_issues": 94,
             "owner": "allenai",
             "repo": "bi-att-flow",
-            "stars": 1546,
+            "stars": 1545,
             "topics": [
               "bidaf",
               "nlp",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:48:16.891Z",
+    "last_updated": "2026-09-24T12:46:20.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources, datasets, papers on Question Answering",
