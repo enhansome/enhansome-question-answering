@@ -190,7 +190,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2023-05-31T01:34:05Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "allenai",
             "repo": "bi-att-flow",
             "stars": 1545,
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:49:36.246Z",
+    "last_updated": "2026-09-26T12:17:10.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources, datasets, papers on Question Answering",
