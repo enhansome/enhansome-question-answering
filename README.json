@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "CNN QA Task (Teaching Machines to Read & Comprehend)",
-          "description": null,
+          "description": "google-deepmind/rc-data",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "QA dataset featured in Teaching Machines to Read and Comprehend",
-          "description": null,
+          "description": "google-deepmind/rc-data",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "NewsQA",
-          "description": null,
+          "description": "Maluuba/newsqa",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "Query Reformulator Dataset Jeopardy etc",
-          "description": null,
+          "description": "nyu-dl/dl4ir-query-reformulator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "Chat corpus",
-          "description": null,
+          "description": "marsan-ma/chat_corpus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "WebNav",
-          "description": null,
+          "description": "nyu-dl/dl4ir-webnav",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -138,7 +138,7 @@
         {
           "node_type": "item",
           "title": "ParlAI",
-          "description": null,
+          "description": "facebookresearch/ParlAI",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -151,7 +151,7 @@
             "open_issues": 53,
             "owner": "facebookresearch",
             "repo": "ParlAI",
-            "stars": 10617,
+            "stars": 10616,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -159,7 +159,7 @@
         {
           "node_type": "item",
           "title": "MemNN Impl Matlab",
-          "description": null,
+          "description": "facebookarchive/MemNN",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -180,7 +180,7 @@
         {
           "node_type": "item",
           "title": "BiAttnFlow",
-          "description": null,
+          "description": "allenai/bi-att-flow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "Quepy",
-          "description": null,
+          "description": "machinalis/quepy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -228,7 +228,7 @@
         {
           "node_type": "item",
           "title": "NLQuery",
-          "description": null,
+          "description": "ayoungprogrammer/nlquery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -253,7 +253,7 @@
         {
           "node_type": "item",
           "title": "flask-chatterbot",
-          "description": null,
+          "description": "chamkank/flask-chatterbot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -277,7 +277,7 @@
         {
           "node_type": "item",
           "title": "Key Value MemNN",
-          "description": null,
+          "description": "siyuanzhao/key-value-memory-networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "TextKBQA",
-          "description": null,
+          "description": "rajarshd/TextKBQA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -323,7 +323,7 @@
         {
           "node_type": "item",
           "title": "Learning to Rank short text pairs with CNN SIGIR 2015",
-          "description": null,
+          "description": "shashankg7/Keras-CNN-QA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:57:04.734Z",
+    "last_updated": "2026-10-03T05:02:57.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources, datasets, papers on Question Answering",
@@ -358,7 +358,7 @@
       "open_issues": 0,
       "owner": "dapurv5",
       "repo": "awesome-question-answering",
-      "stars": 684,
+      "stars": 685,
       "topics": [
         "awesome",
         "awesome-list",
