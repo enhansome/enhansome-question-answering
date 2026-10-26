@@ -120,11 +120,11 @@ A curated list of awesome question answering related resources, including papers
 * [BiAttnFlow](https://github.com/allenai/bi-att-flow) ⭐ 1,545 | 🐛 104 | 🌐 Python | 📅 2023-05-31
 * [Quepy](https://github.com/machinalis/quepy) ⭐ 1,266 | 🐛 27 | 🌐 Python | 📅 2020-12-29
 * [NLQuery](https://github.com/ayoungprogrammer/nlquery) ⭐ 434 | 🐛 5 | 🌐 Python | 📅 2016-10-13
-* [flask-chatterbot](https://github.com/chamkank/flask-chatterbot) ⭐ 373 | 🐛 18 | 🌐 HTML | 📅 2021-07-06
+* [flask-chatterbot](https://github.com/chamkank/flask-chatterbot) ⭐ 372 | 🐛 18 | 🌐 HTML | 📅 2021-07-06
 * [Key Value MemNN](https://github.com/siyuanzhao/key-value-memory-networks) ⭐ 243 | 🐛 5 | 🌐 Python | 📅 2018-09-07
 * [TextKBQA](https://github.com/rajarshd/TextKBQA) ⭐ 202 | 🐛 0 | 🌐 Python | 📅 2017-11-25
 * [Learning to Rank short text pairs with CNN SIGIR 2015](https://github.com/shashankg7/Keras-CNN-QA) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2016-12-01
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
