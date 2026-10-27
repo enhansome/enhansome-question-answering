@@ -220,7 +220,7 @@
             "open_issues": 27,
             "owner": "machinalis",
             "repo": "quepy",
-            "stars": 1266,
+            "stars": 1267,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T14:24:21.179Z",
+    "last_updated": "2026-10-27T13:21:39.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources, datasets, papers on Question Answering",
