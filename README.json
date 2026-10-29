@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "google-deepmind",
             "repo": "rc-data",
-            "stars": 1294,
+            "stars": 1293,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "google-deepmind",
             "repo": "rc-data",
-            "stars": 1294,
+            "stars": 1293,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T14:06:54.190Z",
+    "last_updated": "2026-10-29T14:28:44.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources, datasets, papers on Question Answering",
