@@ -151,7 +151,7 @@
             "open_issues": 53,
             "owner": "facebookresearch",
             "repo": "ParlAI",
-            "stars": 10615,
+            "stars": 10616,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T14:21:49.292Z",
+    "last_updated": "2026-11-02T17:12:43.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources, datasets, papers on Question Answering",
