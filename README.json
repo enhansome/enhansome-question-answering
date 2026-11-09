@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "google-deepmind",
             "repo": "rc-data",
-            "stars": 1293,
+            "stars": 1292,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "google-deepmind",
             "repo": "rc-data",
-            "stars": 1293,
+            "stars": 1292,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -151,7 +151,7 @@
             "open_issues": 53,
             "owner": "facebookresearch",
             "repo": "ParlAI",
-            "stars": 10617,
+            "stars": 10614,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -193,7 +193,7 @@
             "open_issues": 104,
             "owner": "allenai",
             "repo": "bi-att-flow",
-            "stars": 1546,
+            "stars": 1545,
             "topics": [
               "bidaf",
               "nlp",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:22:19.605Z",
+    "last_updated": "2026-11-09T17:39:09.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources, datasets, papers on Question Answering",
