@@ -151,7 +151,7 @@
             "open_issues": 53,
             "owner": "facebookresearch",
             "repo": "ParlAI",
-            "stars": 10616,
+            "stars": 10614,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -172,7 +172,7 @@
             "open_issues": 14,
             "owner": "facebookarchive",
             "repo": "MemNN",
-            "stars": 1754,
+            "stars": 1753,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -193,7 +193,7 @@
             "open_issues": 104,
             "owner": "allenai",
             "repo": "bi-att-flow",
-            "stars": 1545,
+            "stars": 1544,
             "topics": [
               "bidaf",
               "nlp",
@@ -220,7 +220,7 @@
             "open_issues": 27,
             "owner": "machinalis",
             "repo": "quepy",
-            "stars": 1267,
+            "stars": 1266,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:57.324Z"
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:38:51.112Z",
+    "last_updated": "2026-11-20T16:13:55.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources, datasets, papers on Question Answering",
