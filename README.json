@@ -290,7 +290,7 @@
             "open_issues": 5,
             "owner": "siyuanzhao",
             "repo": "key-value-memory-networks",
-            "stars": 243,
+            "stars": 242,
             "topics": [
               "babi-tasks",
               "deep-learning",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:47:06.309Z",
+    "last_updated": "2026-11-27T17:31:25.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources, datasets, papers on Question Answering",
